@@ -1,5 +1,3 @@
-
-# amwg_dev
 # [cecilehannay.github.io/amwg_dev](https://cecilehannay.github.io/amwg_dev/)
 
 
