@@ -14,8 +14,6 @@
 
 
 
-
-
 # Vertical resolution simulations 
 
 ## L58 grid
@@ -26,4 +24,14 @@ Here the simulations are a collection of issues. https://github.com/swrneale/amw
 | Run           | Description   |  Diags |
 | ---------     | ------------- | -------|
 |               |               |        |   
+
+
+
+
+# Vertical resolution simulations 
+
+## L58 grid
+
+Here the simulations are a collection of issues. https://github.com/swrneale/amwg_dev/issues
+
 
