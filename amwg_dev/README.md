@@ -20,6 +20,8 @@
 
 ## L58 grid
 
+Runs are a collection of issues. https://github.com/swrneale/amwg_dev/issues
+
 
 | Run           | Description   |  Diags |
 | ---------     | ------------- | -------|
