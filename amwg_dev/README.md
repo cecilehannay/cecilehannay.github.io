@@ -16,11 +16,11 @@
 
 
 
-# new set of vertical resolution simulations
+# Vertical resolution simulations 
 
 ## L58 grid
 
-Runs are a collection of issues. https://github.com/swrneale/amwg_dev/issues
+Here the simulations are a collection of issues. https://github.com/swrneale/amwg_dev/issues
 
 
 | Run           | Description   |  Diags |
