@@ -24,13 +24,13 @@ The diagnostics are at the usual place on the cgd website.
 
 ## L58 grid
 
-This is similar to the previous table except instead of using archive_metadata, we directoy save the case directories on github in a branch. 
+This is similar to the previous table except instead of using archive_metadata, we saved the case directories on github in a branch. 
 
 
 | Run           | Description   |  Diags |
 | ---------     | ------------- | -------|
-|               |               |        |   
-
+| f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_zmke_4.hf   |               |        |   
+| f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_detmods_entr4.hf  |               |        |   
 
 
 
