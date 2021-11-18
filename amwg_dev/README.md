@@ -77,6 +77,8 @@ The advantage is that all the developpers can comment on the issue.
 
 ### github.com/NCAR
 
+![Screen Shot 2021-11-18 at 11 16 08 AM](https://user-images.githubusercontent.com/9723220/142473416-24d187e7-f2e2-4f69-84df-b38dedef149a.png)
+
 For instance: 
 - https://github.com/NCAR/amwg_dev
 - https://github.com/NCAR/amwg_simulations
