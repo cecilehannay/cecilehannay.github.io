@@ -39,7 +39,7 @@ This is similar to the previous table except instead of using archive_metadata, 
 ## L58 grid
 
 Another possibility is to keep track of the simulations are a collection of issues. 
-https://github.com/swrneale/amwg_dev/issues (https://github.com/swrneale/amwg_dev/issues)
+[https://github.com/swrneale/amwg_dev/issues](https://github.com/swrneale/amwg_dev/issues)
 
 Each simulation will correspond to a single issue. We will use a template to enter the simulations and specify: 
 - casename 
