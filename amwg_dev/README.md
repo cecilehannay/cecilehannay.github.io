@@ -75,7 +75,8 @@ The advantage is that all the developpers can comment on the issue.
 
 # Where will this live ? 
 
-### 
+### github.com/NCAR
+
 https://github.com/NCAR/amwg_dev
 
 ### Github pages
@@ -88,7 +89,7 @@ The ESDS webpage is hosted on github page:
 What I showed here is indeed a github page:
 [https://cecilehannay.github.io/amwg_dev/](https://cecilehannay.github.io/amwg_dev/) 
 
-### Wiki
+### Github Wiki
 
 **Examples** 
 
