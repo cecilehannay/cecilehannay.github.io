@@ -15,7 +15,7 @@ During CAM6 development, we shared CAM development effort through webpages:
 # CAM7 development: "The 2021 way" 
 
 We explored sharing development on github. 
-- control version: it is easier to have collaborations
+- control version: it is easier to have collaborations (and also we can have a gatekeeper and pull request)
 - more freedom than with web2mod
 - take advantages of some github tools to interact. 
 
@@ -61,7 +61,7 @@ This is similar to the previous table except instead of using archive_metadata, 
 
 ### Taking advantage of github issues
 
-Another possibility is to keep track of the simulations are a collection of issues. 
+Instead of having tables, another possibility is to keep track of the simulations are a collection of issues. 
 [https://github.com/swrneale/amwg_dev/issues](https://github.com/swrneale/amwg_dev/issues)
 
 Each simulation will correspond to a single issue. We will use a template to enter the simulations and specify: 
