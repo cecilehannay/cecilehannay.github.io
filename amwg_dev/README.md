@@ -29,8 +29,8 @@ This is similar to the previous table except instead of using archive_metadata, 
 
 | Run           | Description   |  Diags |
 | ---------     | ------------- | -------|
-| [f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_zmke_4.hf] (https://github.com/cecilehannay/amwg_cases/releases/tag/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_zmke_4.hf)   |               |   [diags] (https://webext.cgd.ucar.edu/FWscHIST/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_zmke_4.hf/atm/)     |   
-| [f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_detmods_entr4.hf] (https://github.com/cecilehannay/amwg_cases/releases/tag/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_detmods_entr4.hf)  |   w/ the detrainment mods + increased entrainment limiter (2E-4 -> 4E-4))            |        |   
+| [f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_zmke_4.hf](https://github.com/cecilehannay/amwg_cases/releases/tag/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_zmke_4.hf)   |               |   [diags](https://webext.cgd.ucar.edu/FWscHIST/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_zmke_4.hf/atm/)     |   
+| [f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_detmods_entr4.hf](https://github.com/cecilehannay/amwg_cases/releases/tag/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_detmods_entr4.hf)  |   w/ the detrainment mods + increased entrainment limiter (2E-4 -> 4E-4))            |        |   
 
 
 
