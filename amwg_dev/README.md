@@ -17,8 +17,15 @@ During CAM6 development, we shared CAM development effort through webpages:
 We explored sharing development on github. 
 - control version: it is easier to have collaborations
 - more freedom than with web2mod
-- take advantages of some github tool to interact. 
+- take advantages of some github tools to interact. 
 
+### What would we like to share.
+
+For each simulation:  
+- casename 
+- description
+- diags
+- ...
 
 ### Using archive_metadata to save the case directory information
 
