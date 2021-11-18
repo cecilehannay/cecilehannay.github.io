@@ -29,8 +29,8 @@ This is similar to the previous table except instead of using archive_metadata, 
 
 | Run           | Description   |  Diags |
 | ---------     | ------------- | -------|
-| f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_zmke_4.hf   |               |        |   
-| f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_detmods_entr4.hf  |               |        |   
+| [f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_zmke_4.hf] (https://github.com/cecilehannay/amwg_cases/releases/tag/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_zmke_4.hf)   |               |        |   
+| [f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_detmods_entr4.hf] (https://github.com/cecilehannay/amwg_cases/releases/tag/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_detmods_entr4.hf)  |               |        |   
 
 
 
