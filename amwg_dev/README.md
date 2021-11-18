@@ -19,7 +19,7 @@ We explored sharing development on github.
 - more freedom than with web2mod
 - take advantages of some github tools to interact. 
 
-### What would we like to share.
+### What would we like to share when we do a simulation? 
 
 For each simulation:  
 - casename 
@@ -29,7 +29,7 @@ For each simulation:
 We can also save:
 - case directory (no backup anymore)
 - sandbox
-- discussion of the case
+- discussion of about the simulation
 
 ### Using archive_metadata to save the case directory information
 
