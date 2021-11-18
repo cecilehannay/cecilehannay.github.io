@@ -78,9 +78,9 @@ The advantage is that all the developpers can comment on the issue.
 ### github.com/NCAR
 
 For instance: 
-https://github.com/NCAR/amwg_dev
-https://github.com/NCAR/amwg_simulations
-https://github.com/NCAR/amwg_sandboxes
+- https://github.com/NCAR/amwg_dev
+- https://github.com/NCAR/amwg_simulations
+- https://github.com/NCAR/amwg_sandboxes
 
 ### Github pages
 
