@@ -79,10 +79,6 @@ The advantage is that all the developpers can comment on the issue.
 
 ![Screen Shot 2021-11-18 at 11 16 08 AM](https://user-images.githubusercontent.com/9723220/142473416-24d187e7-f2e2-4f69-84df-b38dedef149a.png)
 
-For instance: 
-- https://github.com/NCAR/amwg_dev
-- https://github.com/NCAR/amwg_simulations
-- https://github.com/NCAR/amwg_sandboxes
 
 ### Github pages
 
@@ -98,7 +94,8 @@ What I showed here is indeed a github page:
 
 **Examples** 
 
-CAM-debugging-techniques
+CAM-debugging-techniques:[https://github.com/ESCOMP/CAM/wiki/CAM-debugging-techniques](https://github.com/ESCOMP/CAM/wiki/CAM-debugging-techniques)
 
-[https://github.com/ESCOMP/CAM/wiki/CAM-debugging-techniques](https://github.com/ESCOMP/CAM/wiki/CAM-debugging-techniques)
+ADF wiki: [https://github.com/NCAR/ADF/wiki](https://github.com/NCAR/ADF/wiki)
+
 
