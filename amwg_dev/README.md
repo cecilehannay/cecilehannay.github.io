@@ -6,7 +6,11 @@
 ## L58 grid
 
 In this first example we used the tool archive_metadata to collect the information about the case directory. 
-We create a 
+
+The information about the sandbox is saved into github in a branch.
+
+The diagnostics are at the usual place on the cgd website.
+
 
 | Run           | Description   | Tag |  Diags |
 | ---------     | ------------- | --- | -------|
@@ -20,6 +24,7 @@ We create a
 
 ## L58 grid
 
+This is similar to the previous table except instead of using archive_metadata, we directoy save the case directories on github in a branch. 
 
 
 | Run           | Description   |  Diags |
