@@ -18,7 +18,6 @@
 
 ## L58 grid
 
-Here the simulations are a collection of issues. https://github.com/swrneale/amwg_dev/issues
 
 
 | Run           | Description   |  Diags |
@@ -32,6 +31,11 @@ Here the simulations are a collection of issues. https://github.com/swrneale/amw
 
 ## L58 grid
 
-Here the simulations are a collection of issues. https://github.com/swrneale/amwg_dev/issues
+Another possibility is to keep track of the simulations are a collection of issues. 
+https://github.com/swrneale/amwg_dev/issues
+
+Each simulation will correspond to a single issue with a template. 
+All the developpers can comment on the issue. 
+
 
 
