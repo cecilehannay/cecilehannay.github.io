@@ -57,7 +57,7 @@ This is similar to the previous table except instead of using archive_metadata, 
 | [f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_zmke_4.hf](https://github.com/cecilehannay/amwg_cases/releases/tag/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_zmke_4.hf)   |               |   [diags](https://webext.cgd.ucar.edu/FWscHIST/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_zmke_4.hf/atm/)     |   
 | [f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_detmods_entr4.hf](https://github.com/cecilehannay/amwg_cases/releases/tag/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_detmods_entr4.hf)  |   w/ the detrainment mods + increased entrainment limiter 2E-4 -> 4E-4            |     [diags](https://webext.cgd.ucar.edu/FWscHIST/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_detmods_entr4.hf/atm/)    |   
 
---------------------------------------------------
+
 
 ### Taking advantage of github issues
 
@@ -72,4 +72,23 @@ Each simulation will correspond to a single issue. We will use a template to ent
 The advantage is that all the developpers can comment on the issue. 
 
 
+
+# Where will this live ? 
+
+### 
+https://github.com/NCAR/amwg_dev
+
+### Github pages
+
+Example: 
+
+The ESDS webpage is hosted on github page:
+[https://ncar.github.io/esds/](https://ncar.github.io/esds/) 
+
+What I showed here is indeed a github page:
+[https://cecilehannay.github.io/amwg_dev/](https://cecilehannay.github.io/amwg_dev/) 
+
+### Wiki
+
+Example:
 
