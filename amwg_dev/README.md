@@ -115,5 +115,5 @@ This is how I feel about moving CAM development on github.
 
 # THis is an example of webpage:
 
-The is the L58 simulations:
-https://github.com/swrneale/amwg_dev/issues?q=is%3Aissue+is%3Aopen+label%3AL58
+This is the L58 simulations:
+[https://github.com/swrneale/amwg_dev/issues?q=is%3Aissue+is%3Aopen+label%3AL58](https://github.com/swrneale/amwg_dev/issues?q=is%3Aissue+is%3Aopen+label%3AL58)
