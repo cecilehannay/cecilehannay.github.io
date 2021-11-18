@@ -63,6 +63,8 @@ This is similar to the previous table except instead of using archive_metadata, 
 
 Instead of having tables, another possibility is to keep track of the simulations are a collection of issues. 
 
+![Screen Shot 2021-11-18 at 11 26 06 AM](https://user-images.githubusercontent.com/9723220/142474809-d89b2e54-0fcd-4baf-a550-ccdf9dcee0ed.png)
+
 Each simulation will correspond to a single **issue**. We will use a **template** to enter the simulations and specify: 
 - casename 
 - description
