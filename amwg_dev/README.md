@@ -1,7 +1,19 @@
+# CAM6 development: "The old way"
+
+We shared CAM development through webpages:
+
+[https://www.cesm.ucar.edu/working_groups/Atmosphere/development/](https://www.cesm.ucar.edu/working_groups/Atmosphere/development/)
+
+Why not doing that for CAM7? 
+- it is difficult to have several people collaborating on the traditional html webpages. 
+- UCAR is imposing new standards (web2mod)
+- Moving from html to drupal 
 
 
+--------------------------------------------------
 
-# Vertical resolution simulations
+# CAM7 development: 
+
 
 ### Using archive_metadata to save the case directory information
 
@@ -20,7 +32,6 @@ The diagnostics are at the usual place on the cgd website.
 
 --------------------------------------------------
 
-# Vertical resolution simulations 
 
 ### Saving case directory as a branch/tag 
 
@@ -33,8 +44,6 @@ This is similar to the previous table except instead of using archive_metadata, 
 | [f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_detmods_entr4.hf](https://github.com/cecilehannay/amwg_cases/releases/tag/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_detmods_entr4.hf)  |   w/ the detrainment mods + increased entrainment limiter 2E-4 -> 4E-4            |     [diags](https://webext.cgd.ucar.edu/FWscHIST/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.002_zm2_detmods_entr4.hf/atm/)    |   
 
 --------------------------------------------------
-
-# Vertical resolution simulations 
 
 ### Taking advantage of github issues
 
