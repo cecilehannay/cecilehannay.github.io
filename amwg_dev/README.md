@@ -39,7 +39,7 @@ In this table,
 - The **diagnostics** are at the usual place on the cgd website.
 
 
-| Run           | Description   | Tag |  Diags |
+| Run           | Description   | Sandbox |  Diags |
 | ---------     | ------------- | --- | -------|
 |[f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.001_zm2.hf](https://svn-cesm2-expdb.cgd.ucar.edu/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.001_zm2.hf)    | Control | [cam7_test_0.0.1](https://github.com/cecilehannay/CAM7-dev-simulations/releases/tag/cam7_test_0.0.1) |[diags](https://webext.cgd.ucar.edu/FWscHIST/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.001_zm2.hf/atm/)|
 |[f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.001_zm2_dmpdz0.8.hf](https://svn-cesm2-expdb.cgd.ucar.edu/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.001_zm2_dmpdz0.8.hf)    | dmpdz = 1->0.8 | [cam7_test_0.02](https://github.com/cecilehannay/CAM7-dev-simulations/releases/tag/cam7_test_0.0.2) | [diags](https://webext.cgd.ucar.edu/FWscHIST/f.e21.FWscHIST.ne30_L48_BL10_cam6_3_019_plus_CESM2.2.001_zm2_dmpdz0.8.hf/atm/)|
