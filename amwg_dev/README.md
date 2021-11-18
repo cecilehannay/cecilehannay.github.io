@@ -1,10 +1,10 @@
 # CAM6 development: "The old way"
 
-We shared CAM development through webpages:
+During CAM6 development, we shared CAM development effort through webpages:
 
 [https://www.cesm.ucar.edu/working_groups/Atmosphere/development/](https://www.cesm.ucar.edu/working_groups/Atmosphere/development/)
 
-Why not doing that for CAM7? 
+**Why not doing that for CAM7?** 
 - it is difficult to have several people collaborating on the traditional html webpages. 
 - UCAR is imposing new standards (web2mod)
 - Moving from html to drupal 
@@ -12,7 +12,12 @@ Why not doing that for CAM7?
 
 --------------------------------------------------
 
-# CAM7 development: 
+# CAM7 development: "The 2021 way" 
+
+We explored sharing development on github. 
+- control version: it is easier to have collaborations
+- more freedom than with web2mod
+- take advantages of some github tool to interact. 
 
 
 ### Using archive_metadata to save the case directory information
