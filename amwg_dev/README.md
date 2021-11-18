@@ -3,7 +3,7 @@
 
 # Vertical resolution simulations
 
-## L58 grid
+## Using archive_metadata to save the case directory information
 
 In this first example we used the tool archive_metadata to collect the information about the case directory. 
 
@@ -22,7 +22,7 @@ The diagnostics are at the usual place on the cgd website.
 
 # Vertical resolution simulations 
 
-## L58 grid
+## Saving case directory as a branch/tag 
 
 This is similar to the previous table except instead of using archive_metadata, we saved the case directories on github in a branch. 
 
@@ -36,7 +36,7 @@ This is similar to the previous table except instead of using archive_metadata, 
 
 # Vertical resolution simulations 
 
-## L58 grid
+## Taking advantage of issues
 
 Another possibility is to keep track of the simulations are a collection of issues. 
 [https://github.com/swrneale/amwg_dev/issues](https://github.com/swrneale/amwg_dev/issues)
