@@ -5,6 +5,8 @@
 
 ## L58 grid
 
+In this first example we used the tool archive_metadata to collect the information about the case directory. 
+We create a 
 
 | Run           | Description   | Tag |  Diags |
 | ---------     | ------------- | --- | -------|
