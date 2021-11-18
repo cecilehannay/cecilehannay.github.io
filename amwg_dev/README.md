@@ -34,8 +34,12 @@
 Another possibility is to keep track of the simulations are a collection of issues. 
 https://github.com/swrneale/amwg_dev/issues
 
-Each simulation will correspond to a single issue with a template. 
-All the developpers can comment on the issue. 
+Each simulation will correspond to a single issue. We will use a template to enter the simulations and specify: 
+- casename 
+- description
+- diags
+
+The advantage is that all the developpers can comment on the issue. 
 
 
 
