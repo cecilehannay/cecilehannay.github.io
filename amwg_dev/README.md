@@ -62,15 +62,19 @@ This is similar to the previous table except instead of using archive_metadata, 
 ### Taking advantage of github issues
 
 Instead of having tables, another possibility is to keep track of the simulations are a collection of issues. 
-[https://github.com/swrneale/amwg_dev/issues](https://github.com/swrneale/amwg_dev/issues)
 
-Each simulation will correspond to a single issue. We will use a template to enter the simulations and specify: 
+Each simulation will correspond to a single **issue**. We will use a **template** to enter the simulations and specify: 
 - casename 
 - description
 - diags
 
-The advantage is that all the developpers can comment on the issue. 
+Advantages of issues instead of a table:
+- all the developpers can comment on the issue. 
+- tags
+- searchable
 
+
+[https://github.com/swrneale/amwg_dev/issues](https://github.com/swrneale/amwg_dev/issues)
 
 
 # Where will this live ? 
