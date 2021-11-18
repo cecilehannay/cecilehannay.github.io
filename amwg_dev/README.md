@@ -25,7 +25,11 @@ For each simulation:
 - casename 
 - description
 - diags
-- ...
+
+We can also save:
+- case directory (no backup anymore)
+- sandbox
+- discussion of the case
 
 ### Using archive_metadata to save the case directory information
 
