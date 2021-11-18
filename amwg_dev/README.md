@@ -33,10 +33,10 @@ We can also save:
 
 ### Using archive_metadata to save the case directory information
 
-In these examples, 
-- I used the tool archive_metadata to collect the information about the case directory. This goes in the database.
-- The information about the sandbox is saved into github in a branch.
-- The diagnostics are at the usual place on the cgd website.
+In this table, 
+- I used the tool archive_metadata to collect the information about the **case directory**. This goes in the cesm database.
+- The information about the **sandbox** is saved into github in a branch.
+- The **diagnostics** are at the usual place on the cgd website.
 
 
 | Run           | Description   | Tag |  Diags |
