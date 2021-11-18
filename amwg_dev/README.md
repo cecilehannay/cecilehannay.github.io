@@ -80,7 +80,7 @@ https://github.com/NCAR/amwg_dev
 
 ### Github pages
 
-Example: 
+**Example**
 
 The ESDS webpage is hosted on github page:
 [https://ncar.github.io/esds/](https://ncar.github.io/esds/) 
@@ -90,5 +90,9 @@ What I showed here is indeed a github page:
 
 ### Wiki
 
-Example:
+**Examples** 
+
+CAM-debugging-techniques
+
+[https://github.com/ESCOMP/CAM/wiki/CAM-debugging-techniques](https://github.com/ESCOMP/CAM/wiki/CAM-debugging-techniques)
 
