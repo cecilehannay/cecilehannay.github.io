@@ -15,8 +15,8 @@ During CAM6 development, we shared CAM development effort through webpages:
 # CAM7 development: "The 2021 way" 
 
 We explored sharing development on github. 
-- control version: it is easier to have collaborations (and also we can have a gatekeeper and pull request)
-- more freedom than with web2mod
+- control version. It is easier to have collaborations and also we can have a gatekeeper and pull requests.
+- more freedom than with web2mod (we don't have to stick to web2mod standards)
 - take advantages of some github tools to interact. 
 
 ### What would we like to share when we do a simulation? 
@@ -27,9 +27,9 @@ For each simulation:
 - diags
 
 We can also save:
-- case directory (no backup anymore)
-- sandbox
-- discussion of about the simulation
+- case directory (especially there is no backup anymore of /glade/p/cesmdata/cseg/runs/cesm2_0)
+- sandbox (often we don't use cesm/cam tags with a sandbox with different Externals and/or modifications)
+- discussion of about the simulation into github (instead of a flurry of emails)
 
 ### Using archive_metadata to save the case directory information
 
