@@ -109,4 +109,5 @@ NB: no pull request on the github wiki.
 
 # Discussion: What do you think? 
 
+![Screen Shot 2021-11-18 at 11 44 49 AM](https://user-images.githubusercontent.com/9723220/142477714-8a15fb1f-2152-45d4-9b66-93108e36a7b5.png)
 
